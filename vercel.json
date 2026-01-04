@@ -4,7 +4,6 @@
   "installCommand": "npm install",
   "framework": "vite",
   "outputDirectory": "dist",
-  "regions": ["bom1", "sin1"],
   "headers": [
     {
       "source": "/(.*)",
