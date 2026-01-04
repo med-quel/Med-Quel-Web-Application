@@ -21,7 +21,7 @@ const features = [
       'Multiple contest types',
       'Real-time rankings',
       'Post-contest analytics',
-      'Rewards system'
+      'Ranking system'
     ]
   },
   {
