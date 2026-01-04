@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.medquel.com/sitemap.xml
+
+# Disallow admin or private sections (if any in future)
+# Disallow: /admin/
