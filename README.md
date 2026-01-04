@@ -1,6 +1,6 @@
-# Med-Quel Landing Page
+# Med Quel Landing Page
 
-A modern, professional landing page for Med-Quel - a revolutionary mobile learning platform for medical exam aspirants.
+A modern, professional landing page for Med Quel - a revolutionary mobile learning platform for medical exam aspirants.
 
 ## 🚀 Features
 
@@ -52,7 +52,7 @@ npm run preview
 
 1. **Hero** - Attention-grabbing headline with CTA buttons
 2. **Problem Statement** - Pain points of medical students
-3. **Solution** - How Med-Quel solves these problems
+3. **Solution** - How Med Quel solves these problems
 4. **Features** - 7 core features with detailed descriptions
 5. **How It Works** - Step-by-step user journey
 6. **Statistics** - Trust indicators with animated counters
@@ -73,4 +73,4 @@ This site can be deployed to:
 
 ## 📄 License
 
-© 2026 Med-Quel. All rights reserved.
+© 2026 Med Quel. All rights reserved.
