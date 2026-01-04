@@ -20,7 +20,7 @@ const Footer = () => {
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
             {/* Company Info */}
             <div>
-              <h3 className="text-2xl font-bold gradient-text mb-4">Med-Quel</h3>
+              <h3 className="text-2xl font-bold gradient-text mb-4">Med Quel</h3>
               <p className="text-gray-400 mb-4">
                 Revolutionizing Medical Education Through Gamified Learning
               </p>
@@ -179,7 +179,7 @@ const Footer = () => {
       <div className="border-t border-dark-lighter">
         <div className="container-custom py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-gray-500">
-            <p>&copy; 2026 Med-Quel. All rights reserved.</p>
+            <p>&copy; 2026 Med Quel. All rights reserved.</p>
             <p>Made with ❤️ for medical aspirants worldwide</p>
           </div>
         </div>

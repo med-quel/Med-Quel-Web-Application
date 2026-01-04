@@ -39,10 +39,10 @@ const Subjects = () => {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            Comprehensive <span className="gradient-text">Subject Coverage</span>
+            Quiz Across <span className="gradient-text">20+ Medical Subjects</span>
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Master all subjects with our expertly curated content covering the complete MBBS curriculum
+            Test your knowledge with engaging quizzes and contests across all major medical specializations
           </p>
         </motion.div>
 
@@ -97,7 +97,7 @@ const Subjects = () => {
             <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
               <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" />
             </svg>
-            <span className="font-semibold">Complete MBBS Curriculum Covered</span>
+            <span className="font-semibold">1000+ Quiz Questions Across All Subjects</span>
           </div>
         </motion.div>
       </div>

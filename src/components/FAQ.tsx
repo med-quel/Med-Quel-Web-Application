@@ -4,16 +4,16 @@ import { Plus, Minus } from 'lucide-react'
 
 const faqs = [
   {
-    question: 'What is Med-Quel?',
-    answer: 'Med-Quel is a comprehensive mobile learning platform designed specifically for medical exam aspirants. It combines gamified learning, competitive contests, social networking, and advanced analytics to make medical exam preparation engaging, effective, and collaborative.'
+    question: 'What is Med Quel?',
+    answer: 'Med Quel is a comprehensive mobile learning platform designed specifically for medical exam aspirants. It combines gamified learning, competitive contests, social networking, and advanced analytics to make medical exam preparation engaging, effective, and collaborative.'
   },
   {
-    question: 'Is Med-Quel free to use?',
-    answer: 'Yes! Med-Quel offers a robust free plan that includes access to basic quizzes, community chat, weekly contests, and basic analytics. We also offer a Premium plan with unlimited quiz attempts, advanced analytics, exclusive contests, and an ad-free experience.'
+    question: 'Is Med Quel free to use?',
+    answer: 'Yes! Med Quel offers a robust free plan that includes access to basic quizzes, community chat, weekly contests, and basic analytics. We also offer a Premium plan with unlimited quiz attempts, advanced analytics, exclusive contests, and an ad-free experience.'
   },
   {
-    question: 'Which exams does Med-Quel cover?',
-    answer: 'Med-Quel covers all major medical entrance exams including NEET, MBBS, AIIMS, JIPMER, and various state medical entrance examinations. Our content is aligned with the complete MBBS curriculum covering 50+ subjects.'
+    question: 'Which exams does Med Quel cover?',
+    answer: 'Med Quel covers all major medical entrance exams including NEET, MBBS, AIIMS, JIPMER, and various state medical entrance examinations. Our content is aligned with the complete MBBS curriculum covering 50+ subjects.'
   },
   {
     question: 'How does the contest system work?',
@@ -21,7 +21,7 @@ const faqs = [
   },
   {
     question: 'Can I track my progress?',
-    answer: 'Absolutely! Med-Quel provides detailed analytics including quiz attempt history, score trends over time, subject-wise performance breakdown, accuracy rates, time management analysis, and personalized improvement suggestions with interactive charts and graphs.'
+    answer: 'Absolutely! Med Quel provides detailed analytics including quiz attempt history, score trends over time, subject-wise performance breakdown, accuracy rates, time management analysis, and personalized improvement suggestions with interactive charts and graphs.'
   },
   {
     question: 'Is my data secure?',
@@ -66,7 +66,7 @@ const FAQ = () => {
             Frequently Asked <span className="gradient-text">Questions</span>
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Everything you need to know about Med-Quel
+            Everything you need to know about Med Quel
           </p>
         </motion.div>
 

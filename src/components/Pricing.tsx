@@ -14,11 +14,11 @@ const Pricing = () => {
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
             Start your{' '}
-            <span className="gradient-text">fun journey of medical excellence</span>{' '}
+            <span className="gradient-text">gamified medical quiz journey</span>{' '}
             today
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Download for free and start quizzing in minutes!
+            Download for free and start competing in minutes!
           </p>
         </motion.div>
 
@@ -88,12 +88,12 @@ const Pricing = () => {
               {[
                 'Everything in Free plan',
                 'Unlimited quiz attempts',
-                'Advanced analytics & insights',
+                'Advanced performance analytics',
                 'Exclusive premium contests',
                 'Priority support',
                 'Ad-free experience',
-                'Early access to new features',
-                'Personalized study plans'
+                'Early access to new quizzes',
+                'Personalized challenge recommendations'
               ].map((feature, index) => (
                 <li key={index} className="flex items-start gap-3">
                   <Check className="w-5 h-5 text-accent flex-shrink-0 mt-0.5" />
@@ -117,8 +117,8 @@ const Pricing = () => {
           className="text-center"
         >
           <div className="card max-w-3xl mx-auto">
-            <h3 className="text-3xl font-bold mb-4">Ready to Make Learning Fun?</h3>
-            <p className="text-gray-300 mb-8">Download Med-Quel now and join 50,000+ quiz enthusiasts!</p>
+            <h3 className="text-3xl font-bold mb-4">Ready to Challenge Yourself?</h3>
+            <p className="text-gray-300 mb-8">Download Med Quel now and join 50,000+ medical quiz enthusiasts!</p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <a 
@@ -157,7 +157,7 @@ const Pricing = () => {
               </div>
               <div className="flex items-center gap-2">
                 <Check className="w-4 h-4 text-success" />
-                <span>Start learning in 2 minutes</span>
+                <span>Start quizzing in 2 minutes</span>
               </div>
             </div>
           </div>

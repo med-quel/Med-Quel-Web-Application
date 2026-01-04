@@ -4,10 +4,10 @@ import { useEffect, useState } from 'react'
 
 const stats = [
   { icon: Users, value: 50000, suffix: '+', label: 'Active Users', color: 'text-primary' },
-  { icon: BookCheck, value: 1000000, suffix: '+', label: 'Quiz Attempts Monthly', color: 'text-success' },
-  { icon: Trophy, value: 100, suffix: '+', label: 'Daily Contests', color: 'text-accent' },
+  { icon: BookCheck, value: 500000, suffix: '+', label: 'Quiz Attempts Monthly', color: 'text-success' },
+  { icon: Trophy, value: 50, suffix: '+', label: 'Daily Contests', color: 'text-accent' },
   { icon: Star, value: 95, suffix: '%', label: 'User Satisfaction', color: 'text-accent' },
-  { icon: BookOpen, value: 50, suffix: '+', label: 'Subjects Covered', color: 'text-primary' },
+  { icon: BookOpen, value: 40, suffix: '+', label: 'Subjects Covered', color: 'text-primary' },
   { icon: MessageCircle, value: 10000, suffix: '+', label: 'Questions Bank', color: 'text-success' }
 ]
 
@@ -18,7 +18,7 @@ const testimonials = [
     exam: 'Medical Student',
     rating: 5,
     image: '👩‍⚕️',
-    quote: 'Med-Quel made learning so much fun! The quiz battles with friends turned boring study time into exciting gaming sessions. Absolutely loving it!'
+    quote: 'Med Quel made learning so much fun! The quiz battles with friends turned boring study time into exciting gaming sessions. Absolutely loving it!'
   },
   {
     name: 'Rahul Verma',

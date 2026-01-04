@@ -41,11 +41,11 @@ const Solution = () => {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            Meet <span className="gradient-text">Med-Quel</span>
+            Meet <span className="gradient-text">Med Quel</span>
           </h2>
           <p className="text-xl text-gray-300 mb-4">The ultimate Quizzing experience in medical science</p>
           <p className="text-lg text-gray-400 max-w-3xl mx-auto">
-            We've transformed medical learning into an exciting quiz game! Med-Quel combines 
+            We've transformed medical learning into an exciting quiz game! Med Quel combines 
             gamification, competition, and social features to make learning medical concepts 
             addictively fun and surprisingly effective.
           </p>

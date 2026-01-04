@@ -12,7 +12,7 @@ const steps = [
     number: 2,
     icon: UserPlus,
     title: 'Complete Profile Setup',
-    description: 'Tell us about your goals, target exam, and preferred study schedule'
+    description: 'Tell us about your learning goals and preferred study schedule'
   },
   {
     number: 3,
@@ -42,7 +42,7 @@ const steps = [
     number: 7,
     icon: Target,
     title: 'Achieve Goals',
-    description: 'Ace your medical entrance exams with confidence and preparation'
+    description: 'Master medical concepts through engaging, gamified learning experiences'
   }
 ]
 
@@ -61,7 +61,7 @@ const HowItWorks = () => {
             How It <span className="gradient-text">Works</span>
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Get started in just 3 simple steps
+            Your journey to mastering medical knowledge in 7 simple steps
           </p>
         </motion.div>
 
