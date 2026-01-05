@@ -5,7 +5,7 @@ import { Plus, Minus } from 'lucide-react'
 const faqs = [
   {
     question: 'What is Med Quel?',
-    answer: 'Med Quel is a comprehensive mobile learning platform designed specifically for medical exam aspirants. It combines gamified learning, competitive contests, social networking, and advanced analytics to make medical exam preparation engaging, effective, and collaborative.'
+    answer: 'Med Quel is a gamified medical learning quiz platform designed specifically for medical aspirants. It transforms medical education into exciting quiz battles, competitive contests, social networking, and advanced analytics to make learning medical concepts fun, engaging, and effective through play.'
   },
   {
     question: 'Is Med Quel free to use?',

@@ -94,10 +94,10 @@ const Features = () => {
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
             Powerful Features for{' '}
-            <span className="gradient-text">Medical Excellence</span>
+            <span className="gradient-text">Quiz Mastery</span>
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Everything you need to ace your medical entrance exams, all in one platform
+            Everything you need to master medical concepts through gamified quizzes
           </p>
         </motion.div>
 
