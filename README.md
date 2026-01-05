@@ -1,6 +1,6 @@
 # Med Quel Landing Page
 
-A modern, professional landing page for Med Quel - a revolutionary mobile learning platform for medical exam aspirants.
+A modern, professional landing page for Med Quel - a gamified medical learning quiz platform for medical aspirants.
 
 ## 🚀 Features
 
